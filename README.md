@@ -1,17 +1,19 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+This project involved refactoring a simple Todo App using OOP practices
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+Creating a task is simple with the add todo button,
+validation checks the inputs for valid input.
+each task has a label, due date, and id.
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+javascript and object oriented programming practices were used to refactor the initial code.
 
 ## Deployment
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE
+- https://shanekelsey.github.io/se_project_todo-app/
